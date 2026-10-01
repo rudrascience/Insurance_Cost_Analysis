@@ -25,3 +25,18 @@ This repository contains a **Data Analytics and Machine Learning Capstone Projec
 The project demonstrates the full data science pipeline: from raw data ingestion and cleaning, through visual correlation analysis, to model training, evaluation, and regularization — resulting in quantified predictive performance metrics for Insurance Cost estimation.
 
 ---
+
+## 🛠️ Technology Stack
+
+| Technology | Role |
+|:---|:---|
+| **Python 3.x** | Core language |
+| **Jupyter Notebook** | Interactive analysis environment |
+| **Pandas** | Data loading, cleaning, transformation, groupby |
+| **NumPy** | Numerical operations and array handling |
+| **Matplotlib** | Base plotting library |
+| **Seaborn** | Statistical visualisation (`regplot`, `boxplot`) |
+| **Scikit-learn** | `LinearRegression`, `Ridge`, `Pipeline`, `PolynomialFeatures`, `StandardScaler`, `train_test_split` |
+
+---
+

@@ -1,6 +1,12 @@
 # Insurance_Cost_Analysis
 This is a data analysis project for Medical Insurance dataset included in IBM Data Science Professional Certificate.
 
+---
+## Clone the project
+https://github.com/rudrascience/Insurance_Cost_Analysis.git
+
+---
+
 ## Used tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
